@@ -1,6 +1,6 @@
 # Jacinto AI DevKit
 Training Tools For Embedded AI Development.
-
+[Link to access the installation documents](https://git.ti.com/cgit/jacinto-ai-devkit/caffe-jacinto/about/)
 ###### Notice: 
 - If you have not visited our landing page in github, please do so: [https://github.com/TexasInstruments/jacinto-ai-devkit](https://github.com/TexasInstruments/jacinto-ai-devkit)
 - **Issue Tracker for jacinto-ai-devkit:** You can file issues or ask questions at **e2e**: [https://e2e.ti.com/support/processors/f/791/tags/jacinto_2D00_ai_2D00_devkit](https://e2e.ti.com/support/processors/f/791/tags/jacinto_2D00_ai_2D00_devkit). While creating a new issue kindly include **jacinto-ai-devkit** in the tags (as you create a new issue, there is a space to enter tags, at the bottom of the page). 
